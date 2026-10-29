@@ -1,0 +1,109 @@
+{
+  "topics": [
+    {
+      "id": "topic-1",
+      "topic": "我尊敬的人",
+      "title": { "zh": "我尊敬的人", "en": "A Person I Respect" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "人物", "en": "People" }, { "zh": "叙事", "en": "Narrative" }]
+    },
+    {
+      "id": "topic-2",
+      "topic": "我的愿望（或理想）",
+      "title": { "zh": "我的愿望（或理想）", "en": "My Wish (or Ideal)" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "理想", "en": "Ideal" }, { "zh": "议论", "en": "Argument" }]
+    },
+    {
+      "id": "topic-3",
+      "topic": "我的学习生活",
+      "title": { "zh": "我的学习生活", "en": "My Study Life" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "学习", "en": "Study" }, { "zh": "生活", "en": "Life" }]
+    },
+    {
+      "id": "topic-4",
+      "topic": "我喜爱的动物（或植物）",
+      "title": { "zh": "我喜爱的动物（或植物）", "en": "My Favorite Animal (or Plant)" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "自然", "en": "Nature" }, { "zh": "描述", "en": "Description" }]
+    },
+    {
+      "id": "topic-5",
+      "topic": "童年的记忆",
+      "title": { "zh": "童年的记忆", "en": "Childhood Memories" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "回忆", "en": "Memory" }, { "zh": "叙事", "en": "Narrative" }]
+    },
+    {
+      "id": "topic-6",
+      "topic": "我喜爱的职业",
+      "title": { "zh": "我喜爱的职业", "en": "My Favorite Profession" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "职业", "en": "Career" }, { "zh": "议论", "en": "Argument" }]
+    },
+    {
+      "id": "topic-7",
+      "topic": "难忘的旅行",
+      "title": { "zh": "难忘的旅行", "en": "An Unforgettable Trip" },
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "旅行", "en": "Travel" }, { "zh": "叙事", "en": "Narrative" }]
+    },
+    {
+      "id": "topic-8",
+      "topic": "我的朋友",
+      "title": { "zh": "我的朋友", "en": "My Friend" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "人物", "en": "People" }, { "zh": "友谊", "en": "Friendship" }]
+    },
+    {
+      "id": "topic-9",
+      "topic": "我喜爱的文学（或其他）艺术形式",
+      "title": { "zh": "我喜爱的文学（或其他）艺术形式", "en": "My Favorite Art Form" },
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "艺术", "en": "Art" }, { "zh": "议论", "en": "Argument" }]
+    },
+    {
+      "id": "topic-10",
+      "topic": "谈谈卫生与健康",
+      "title": { "zh": "谈谈卫生与健康", "en": "On Hygiene and Health" },
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "健康", "en": "Health" }, { "zh": "说明", "en": "Exposition" }]
+    },
+    {
+      "id": "topic-11",
+      "topic": "我的业余生活",
+      "title": { "zh": "我的业余生活", "en": "My Leisure Life" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "生活", "en": "Life" }, { "zh": "描述", "en": "Description" }]
+    },
+    {
+      "id": "topic-12",
+      "topic": "我喜欢的季节（或天气）",
+      "title": { "zh": "我喜欢的季节（或天气）", "en": "My Favorite Season (or Weather)" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "自然", "en": "Nature" }, { "zh": "描述", "en": "Description" }]
+    },
+    {
+      "id": "topic-13",
+      "topic": "学习普通话的体会",
+      "title": { "zh": "学习普通话的体会", "en": "My Experience Learning Mandarin" },
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "学习", "en": "Learning" }, { "zh": "体会", "en": "Experience" }]
+    },
+    {
+      "id": "topic-14",
+      "topic": "谈谈服饰",
+      "title": { "zh": "谈谈服饰", "en": "On Clothing" },
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "生活", "en": "Life" }, { "zh": "说明", "en": "Exposition" }]
+    },
+    {
+      "id": "topic-15",
+      "topic": "我的假日生活",
+      "title": { "zh": "我的假日生活", "en": "My Holiday Life" },
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "生活", "en": "Life" }, { "zh": "叙事", "en": "Narrative" }]
+    }
+  ]
+}

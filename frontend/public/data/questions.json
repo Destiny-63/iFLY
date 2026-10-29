@@ -1,0 +1,219 @@
+{
+  "character": [
+    {
+      "id": "character-1",
+      "title": { "zh": "单音节词", "en": "Monosyllabic Words" },
+      "content": "虐",
+      "guidance": "关注声母n和韵母ue的发音准确性，以及声调（四声）的是否干脆，语音是否饱满准确。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注声母和韵母，去声是否干脆彻底",
+      "difficulty": { "zh": "高级", "en": "Advanced" },
+      "tags": [ { "zh": "声调", "en": "Tone" }]
+    },
+    {
+      "id": "character-2",
+      "title": { "zh": "单字声母", "en": "Character Initial" },
+      "content": "谢",
+      "guidance": "请重点关注声母 x 的发音准确性。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注声母",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "声母", "en": "Initial" }]
+    }
+  ],
+  "word": [
+    {
+      "id": "word-1",
+      "title": { "zh": "双音节词", "en": "Disyllabic Words" },
+      "content": "脸蛋儿",
+      "guidance": "自带儿化音，关注儿化音的发音，卷舌音变。",
+      "audioExampleUrl": "",
+      "prompt": "请关注儿化音发音准确，是否饱满，有无音的缺失",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "儿化音", "en": "Rhoticization" }, { "zh": "卷舌音变", "en": "Rhoticization" }]
+    },
+    {
+      "id": "word-2",
+      "title": { "zh": "双音节词", "en": "Disyllabic Words" },
+      "content": "保险",
+      "guidance": "双音节词三声变调，第一个字的三声变成两声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注第一个字的音调是否为两声",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "三声变调", "en": "Change tone" }]
+    },
+    {
+      "id": "word-3",
+      "title": { "zh": "双音节词", "en": "Disyllabic Words" },
+      "content": "一向",
+      "guidance": "“一”在四声前变成第二声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注第一个字的音调是否为两声",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "特殊变调", "en": "Change tone" },{"zh":"“一”字变调","en":"Change tone"}]
+    },
+    {
+      "id": "word-4",
+      "title": { "zh": "双音节词", "en": "Disyllabic Words" },
+      "content": "一朵",
+      "guidance": "“一”在一，二，三声前都读第四声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注第一个字的音调是否为四声",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "特殊变调", "en": "Change tone" },{"zh":"”一“字变调","en":"Change tone"}]
+    },
+    {
+      "id": "word-5",
+      "title": { "zh": "双音节词", "en": "Disyllabic Words" },
+      "content": "不要",
+      "guidance": "“不”在四声前变成第二声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注第一个字的音调是否为二声",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "特殊变调", "en": "Change tone" },{"zh":"”不“字变调","en":"Change tone"}]
+    },
+    {
+      "id": "word-6",
+      "title": { "zh": "三音节词", "en": "Trisyllabic Words" },
+      "content": "水彩笔",
+      "guidance": "前两个字都变成二声，第三个字保持三声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注前两个字的音调是否都为两声",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "三声变调", "en": "Change tone" }, { "zh": "双单格", "en": "Change tone" }]
+    },
+    {
+      "id": "word-7",
+      "title": { "zh": "三音节词", "en": "Trisyllabic Words" },
+      "content": "小老虎",
+      "guidance": "第一个字读半三声（只降不升），第二个字变为二声，第三个字保持三声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注第二个字是否为二声，第三个字是否为第三声",
+      "difficulty": { "zh": "高级", "en": "Advanced" },
+      "tags": [{ "zh": "三声变调", "en": "Change tone" }, { "zh": "单双格", "en": "Change tone" }]
+    },
+    {
+    "id": "word-8",
+      "title": { "zh": "三音节词", "en": "Trisyllabic Words" },
+      "content": "卡塔尔",
+      "guidance": "前两个字都变成二声，第三个字保持三声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注前两个字是否都为二声，第三个字是否为第三声",
+      "difficulty": { "zh": "高级", "en": "Advanced" },
+      "tags": [{ "zh": "三声变调", "en": "Change tone" }, { "zh": "单三格", "en": "Change tone" }]
+    },
+    {
+      "id": "word-9",
+      "title": { "zh": "三音节词", "en": "Trisyllabic Words" },
+      "content": "等一等",
+      "guidance": "一在两个字之间读轻声",
+      "audioExampleUrl": "",
+      "prompt": "重点关注第二个字是否为轻声",
+      "difficulty": { "zh": "高级", "en": "Advanced" },
+      "tags": [{ "zh": "特殊变调", "en": "Change tone" },{"zh":"“一”字变调","en":"Change tone"}]
+    }
+  ],
+  "sentence": [
+    {
+      "id": "sentence-3",
+      "title": { "zh": "天气话题", "en": "Weather Topic" },
+      "content": "今天天气怎么样？",
+      "guidance": "请重点关注声调和流畅度，以及句末疑问语调。",
+      "audioExampleUrl": "/audio/examples/read_sentence_cn.mp3",
+      "prompt": "请重点关注声调和流畅度",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "日常", "en": "Daily" }, { "zh": "语调", "en": "Intonation" }],
+      "segments": ["今天", "天气", "怎么样？"]
+    },
+    {
+      "id": "sentence-1",
+      "title": { "zh": "祈使句", "en": "Imperative" },
+      "content": "请把窗户打开。",
+      "guidance": "请重点关注轻声「户」和整体祈使句的语调。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注轻声和语调",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "祈使", "en": "Imperative" }, { "zh": "轻声", "en": "Neutral tone" }],
+      "segments": ["请把", "窗户", "打开。"]
+    },
+    {
+      "id": "sentence-2",
+      "title": { "zh": "学习表达", "en": "Learning Expression" },
+      "content": "我喜欢学习普通话。",
+      "guidance": "请重点关注发音准确性，尤其是「喜欢」「普通话」的连读。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注发音准确性",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "学习", "en": "Learning" }, { "zh": "连读", "en": "Liaison" }],
+      "segments": ["我", "喜欢", "学习", "普通话。"]
+    },
+    {
+      "id": "sentence-4",
+      "title": { "zh": "坚持练习", "en": "Persistent Practice" },
+      "content": "他每天都坚持练习发音。",
+      "guidance": "请重点关注轻声「天」「习」以及句子的节奏。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注轻声和节奏",
+      "difficulty": { "zh": "初级", "en": "Beginner" },
+      "tags": [{ "zh": "学习", "en": "Learning" }, { "zh": "节奏", "en": "Rhythm" }],
+      "segments": ["他", "每天", "都", "坚持", "练习", "发音。"]
+    },
+    {
+      "id": "sentence-5",
+      "title": { "zh": "学习之道", "en": "Way of Learning" },
+      "content": "学习语言需要多听、多说、多练。",
+      "guidance": "请重点关注并列结构的停顿与整体流畅度。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注停顿与流畅度",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "议论", "en": "Argument" }, { "zh": "停顿", "en": "Pause" }],
+      "segments": ["学习语言", "需要", "多听、", "多说、", "多练。"]
+    }
+  ],
+  "article": [
+    {
+      "id": "article-1",
+      "title": { "zh": "白杨礼赞", "en": "In Praise of the White Poplar" },
+      "content": "那是力争上游的一种树，笔直的干，笔直的枝。它的干通常是丈把高，像加过人工似的，一丈以内绝无旁枝。它所有的丫枝一律向上，而且紧紧靠拢，也像加过人工似的，成为一束，绝不旁逸斜出。它的宽大的叶子也是片片向上，几乎没有斜生的，更不用说倒垂了。它的皮光滑而有银色的晕圈，微微泛出淡青色。这是虽在北方的风雪的压迫下却保持着倔强挺立的一种树。",
+      "guidance": "请重点关注语流和停顿，句间换气自然，注意排比句的节奏。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注语流、停顿与节奏",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "散文", "en": "Prose" }, { "zh": "语流", "en": "Fluency" }],
+      "segments": ["那是力争上游的一种树，", "笔直的干，", "笔直的枝。", "它的干通常是丈把高，", "像加过人工似的，", "一丈以内绝无旁枝。", "它所有的丫枝一律向上，", "而且紧紧靠拢，", "也像加过人工似的，", "成为一束，", "绝不旁逸斜出。", "它的宽大的叶子也是片片向上，", "几乎没有斜生的，", "更不用说倒垂了。", "它的皮光滑而有银色的晕圈，", "微微泛出淡青色。", "这是虽在北方的风雪的压迫下却保持着倔强挺立的一种树。"]
+    },
+    {
+      "id": "article-2",
+      "title": { "zh": "海滨仲夏夜", "en": "Midsummer Night by the Sea" },
+      "content": "夕阳落山不久，西方的天空，还燃烧着一片橘红色的晚霞。大海，也被这霞光染成了红色，而且比天空的景色更要壮观。因为它是活动的，每当一排排波浪涌起的时候，那映照在浪峰上的霞光，又红又亮，简直就像一片片霍霍燃烧着的火焰，闪烁着，消失了。而后面的一排，又闪烁着，滚动着，涌了过来。",
+      "guidance": "请重点关注句间停顿与整体流畅度，写景文字的节奏感。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注句间停顿与整体流畅度",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "写景", "en": "Description" }, { "zh": "停顿", "en": "Pause" }],
+      "segments": ["夕阳落山不久，", "西方的天空，", "还燃烧着一片橘红色的晚霞。", "大海，", "也被这霞光染成了红色，", "而且比天空的景色更要壮观。", "因为它是活动的，", "每当一排排波浪涌起的时候，", "那映照在浪峰上的霞光，", "又红又亮，", "简直就像一片片霍霍燃烧着的火焰，", "闪烁着，", "消失了。", "而后面的一排，", "又闪烁着，", "滚动着，", "涌了过来。"]
+    },
+    {
+      "id": "article-3",
+      "title": { "zh": "济南的冬天", "en": "Winter in Jinan" },
+      "content": "对于一个在北平住惯的人，像我，冬天要是不刮风，便觉得是奇迹；济南的冬天是没有风声的。对于一个刚由伦敦回来的人，像我，冬天要能看得见日光，便觉得是怪事；济南的冬天是响晴的。自然，在热带的地方，日光是永远那么毒，响亮的天气，反有点叫人害怕。可是，在北中国的冬天，而能有温晴的天气，济南真得算个宝地。",
+      "guidance": "请重点关注对比结构的停顿，以及老舍先生平实舒缓的语速。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注停顿与语速",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "散文", "en": "Prose" }, { "zh": "节奏", "en": "Rhythm" }],
+      "segments": ["对于一个在北平住惯的人，", "像我，", "冬天要是不刮风，", "便觉得是奇迹；", "济南的冬天是没有风声的。", "对于一个刚由伦敦回来的人，", "像我，", "冬天要能看得见日光，", "便觉得是怪事；", "济南的冬天是响晴的。", "自然，", "在热带的地方，", "日光是永远那么毒，", "响亮的天气，", "反有点叫人害怕。", "可是，", "在北中国的冬天，", "而能有温晴的天气，", "济南真得算个宝地。"]
+    },
+    {
+      "id": "article-4",
+      "title": { "zh": "推广普通话", "en": "Promoting Mandarin" },
+      "content": "普通话是中华民族的共同语，推广普通话有利于增进各民族地区的交流。随着改革开放和社会主义市场经济的发展，社会对普通话的需求日益迫切。推广普及普通话，营造良好的语言环境，有利于促进人员交流，有利于商品流通和培育统一的大市场，有利于增进各民族各地区的交流，有利于维护国家统一，增强中华民族凝聚力。",
+      "guidance": "请重点关注句间停顿与整体流畅度，说明文的逻辑重音。",
+      "audioExampleUrl": "",
+      "prompt": "请重点关注句间停顿与逻辑重音",
+      "difficulty": { "zh": "中级", "en": "Intermediate" },
+      "tags": [{ "zh": "说明", "en": "Exposition" }, { "zh": "停顿", "en": "Pause" }],
+      "segments": ["普通话是中华民族的共同语，", "推广普通话有利于增进各民族地区的交流。", "随着改革开放和社会主义市场经济的发展，", "社会对普通话的需求日益迫切。", "推广普及普通话，", "营造良好的语言环境，", "有利于促进人员交流，", "有利于商品流通和培育统一的大市场，", "有利于增进各民族各地区的交流，", "有利于维护国家统一，", "增强中华民族凝聚力。"]
+    }
+  ]
+}

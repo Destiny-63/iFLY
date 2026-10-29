@@ -1,0 +1,26 @@
+# 复制此文件为 .env 并填入实际值
+# 请访问 https://www.xfyun.cn/ 注册账号并创建应用
+
+# ========== 讯飞语音评测（ISE）==========
+# 用于单字/词语/短文朗读评测
+APP_ID=your_app_id_here
+API_KEY=your_api_key_here
+API_SECRET=your_api_secret_here
+
+# ========== 星火大模型（LLM 反馈）==========
+# 用于生成评测反馈、命题说话评分。未配置时仅返回 ISE 结果
+SPARK_API_KEY=your_spark_api_key_here
+SPARK_API_URL=https://spark-api-open.xf-yun.com/v2
+SPARK_MODEL=spark-x
+
+# ========== 讯飞语音转写（LFASR）==========
+# 用于命题说话：将录音转成文字。需在控制台开通「语音转写」服务
+# SecretKey 在 控制台-语音转写-服务管理 获取
+LFASR_APP_ID=your_lfasr_app_id_here
+LFASR_SECRET_KEY=your_lfasr_secret_key_here
+
+# ========== 可选：Django 配置 ==========
+# DJANGO_SECRET_KEY=your-secret-key
+# DJANGO_DEBUG=true
+# DJANGO_ALLOWED_HOSTS=*
+# CORS_ALLOW_ALL_ORIGINS=true

@@ -1,0 +1,22 @@
+diff --git a/node_modules/vue3-calendar-heatmap/dist/vue3-calendar-heatmap.es.js b/node_modules/vue3-calendar-heatmap/dist/vue3-calendar-heatmap.es.js
+index 210ce12..6377964 100644
+--- a/node_modules/vue3-calendar-heatmap/dist/vue3-calendar-heatmap.es.js
++++ b/node_modules/vue3-calendar-heatmap/dist/vue3-calendar-heatmap.es.js
+@@ -309,7 +309,7 @@ function $e(e, t, a, s, d, o) {
+           transform: e.getWeekPosition(E)
+         }, [
+           (i(!0), u(m, null, w(h, (I, U) => (i(), u(m, { key: U }, [
+-            I.date < e.now ? (i(), u("rect", {
++            (i(), u("rect", {
+               key: 0,
+               class: "vch__day__square",
+               rx: e.round,
+@@ -321,7 +321,7 @@ function $e(e, t, a, s, d, o) {
+               "data-week-index": E,
+               "data-day-index": U,
+               onClick: (S) => e.$emit("dayClick", I)
+-            }, null, 12, Te)) : M("", !0)
++            }, null, 12, Te))
+           ], 64))), 128))
+         ], 8, pe))), 128))
+       ], 40, Ue)
